@@ -23,7 +23,7 @@
 
 
 
-### Day 0: August 1, Wednesday
+### Day 1: August 1, Wednesday
 
 **Today's Progress**: I've gone through Applied visual Design exercises on FreeCodeCamp.
 
