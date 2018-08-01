@@ -25,10 +25,10 @@
 
 ### Day 0: August 1, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through Applied visual Design exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've recently started coding, and it's a great feeling when I finally coding continously for a hour.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+1. [Started with Applied visual Design here is the link:-](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-visual-balance-using-the-text-align-property)
+2. [Completed till Adjusting the tone of a color here is the link:-] (https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-tone-of-a-color)
