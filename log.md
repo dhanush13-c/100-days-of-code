@@ -31,4 +31,4 @@
 
 **Link(s) to work**
 1. [Started with Applied visual Design here is the link:-](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-visual-balance-using-the-text-align-property)
-2. [Completed till Adjusting the tone of a color here is the link:-] (https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-tone-of-a-color)
+2. [Completed till Adjusting the tone of a color here is the link:-](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-tone-of-a-color)
