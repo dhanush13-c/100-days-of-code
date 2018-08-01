@@ -3,8 +3,7 @@
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
+* [Log - click here to see my progress](R1.md)
 * [Resources](resources.md)
 
 ## Translations
